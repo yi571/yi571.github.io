@@ -1,0 +1,1 @@
+import{C as n,L as r,H as _}from"./index.6647c1da.js";const a=(t,e)=>{const o=t.__vccOpts||t;for(const[c,s]of e)o[c]=s;return o},d={},i={class:"about"},l=_("h1",null,"\u95DC\u65BC",-1),f=[l];function u(t,e){return n(),r("div",i,f)}const p=a(d,[["render",u]]);export{p as default};
